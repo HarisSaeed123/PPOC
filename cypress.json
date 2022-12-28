@@ -1,0 +1,6 @@
+{
+    "baseUrl" : "https://ppoc.datadrive.nl",
+    "env" : {
+        "MAILOSAUR_API_KEY" : "pct7HVUIRpOtwpy3"
+    }
+}

@@ -1,0 +1,10 @@
+{
+  "signUp" : {
+    "nameFieldValidation" : "The name field is required.",
+    "emailFieldValidation" : "The email field is required.",
+    "invalidNameValidationMsg" : "The name must be valid name",
+    "invalidEmailValidationMsg" : "The email must be a valid email address."
+    
+    }
+    
+}

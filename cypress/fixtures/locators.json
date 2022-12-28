@@ -1,0 +1,17 @@
+{
+    "nameField" : "//input[@placeholder = 'Enter your official first and last name']",
+    "emailId" : "//input[@placeholder = 'Enter email']",
+    "setUpMyAccount" : "//div[@class='my-8']/button[@type = 'submit']",
+    "validationMessage": "//ul/li[@class = 'text-red-500 text-xs italic']",
+    "invalidEmailIdText" : "//ul/li[@class = 'text-red-500 text-xs italic']",
+    "countryDropDown" : "//select[@name = 'country']",
+    "passwordField" : "//input[@name='password']",
+    "confirmPrivacyTerms" : "//div[@class='flex items-center h-5']/input[@name='confirmPrivacyTerms']",
+    "emailVerification" : {
+        "input1" : "//input[@name='code.0']",
+        "input2" : "//input[@name='code.1']",
+        "input3" : "//input[@name='code.2']",
+        "input4" : "//input[@name='code.3']",
+        "input5" : "//input[@name='code.4']"
+    }
+}

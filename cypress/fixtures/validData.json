@@ -1,0 +1,15 @@
+{
+   "userInfo" : {
+        "validName" : "Taimur123",
+        "validEmail" : "taimur123@gmail.com"
+    },
+
+    "yourProfile" : {
+        "country" : {
+            "usa" : "United States",
+            "uk" : "United Kingdom",
+            "germany" : "Germany"
+        },
+        "password" : "Admin@123"
+    }
+}
